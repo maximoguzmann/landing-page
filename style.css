@@ -61,3 +61,8 @@ Quote Text: 36px #1F2937 weight: 300;
   font-size: 18px;
   color: #e5e7eb;
 }
+
+.nav-link,
+.logo {
+  cursor: pointer;
+}
