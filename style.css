@@ -3,3 +3,26 @@
   margin: 0;
   padding: 0;
 }
+
+html {
+  font-family: "Roboto", sans-serif;
+}
+/*
+Font Use: Roboto;
+
+Dark Background Color: #1F2937;
+
+Hero Main Text: 48px #F9FAF8 weight: 900;
+
+Hero Secondary Text, Header Link Text: 18px #E5E7EB;
+
+Hero Logo Text: 24px #F9FAF8;
+
+Button Color, Call to Action Background Color: #3882F6;
+
+Information Header Text: 36px #1F2937 weight: 900;
+
+Quote Section Background Color: #E5E7EB;
+
+Quote Text: 36px #1F2937 weight: 300;
+*/
